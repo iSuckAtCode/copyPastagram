@@ -1,0 +1,6 @@
+framework module Pods_copyPastagramUITests {
+  umbrella header "Pods-copyPastagramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
